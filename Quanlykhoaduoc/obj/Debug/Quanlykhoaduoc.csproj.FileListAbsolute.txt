@@ -28,3 +28,5 @@ E:\PROJECT\Quanlykhoaduoc\obj\Debug\Quanlykhoaduoc.exe.licenses
 E:\PROJECT\Quanlykhoaduoc\obj\Debug\Quanlykhoaduoc.exe
 E:\PROJECT\Quanlykhoaduoc\obj\Debug\Quanlykhoaduoc.pdb
 E:\PROJECT\Quanlykhoaduoc\obj\Debug\Quanlykhoaduoc.Danhmuc.frmDMTanDuoc.resources
+E:\PROJECT\QLKhoaduoc\Quanlykhoaduoc\Quanlykhoaduoc\obj\Debug\Quanlykhoaduoc.exe
+E:\PROJECT\QLKhoaduoc\Quanlykhoaduoc\Quanlykhoaduoc\obj\Debug\Quanlykhoaduoc.pdb
