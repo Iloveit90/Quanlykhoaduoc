@@ -1,0 +1,9 @@
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\bin\Debug\LayerBusinessObjec.dll
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\bin\Debug\LayerBusinessObjec.pdb
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb

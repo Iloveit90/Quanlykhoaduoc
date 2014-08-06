@@ -1,0 +1,4 @@
+E:\PROJECT\Quanlykhoaduoc\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+E:\PROJECT\Quanlykhoaduoc\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+E:\PROJECT\Quanlykhoaduoc\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+E:\PROJECT\Quanlykhoaduoc\LayerDataAccess\obj\Debug\LayerDataAccess.pdb

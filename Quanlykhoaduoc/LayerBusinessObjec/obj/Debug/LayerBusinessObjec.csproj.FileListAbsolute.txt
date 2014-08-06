@@ -1,0 +1,4 @@
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessObjec\bin\Debug\LayerBusinessObjec.dll
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessObjec\bin\Debug\LayerBusinessObjec.pdb
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessObjec\obj\Debug\LayerBusinessObjec.dll
+E:\PROJECT\Quanlykhoaduoc\LayerBusinessObjec\obj\Debug\LayerBusinessObjec.pdb
